@@ -1,0 +1,30 @@
+.places {
+    text-align: center;
+    margin-top: 30px;
+    /* Space from the filters section */
+}
+
+.places h1 {
+    text-align: left;
+    font-size: 30px;
+    margin-left: 20px;
+    /* Aligns the title to the left with some space */
+}
+
+article {
+    width: 390px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #FF5A5F;
+    border-radius: 4px;
+    display: inline-block;
+    /* To display articles horizontally */
+    vertical-align: top;
+    /* Aligns articles to the top if they have different heights */
+}
+
+article h2 {
+    font-size: 30px;
+    text-align: center;
+    /* Centers the place name */
+}
